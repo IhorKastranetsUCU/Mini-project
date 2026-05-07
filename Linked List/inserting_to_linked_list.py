@@ -36,6 +36,11 @@ def insertAt(data, pos):
         nn.next = cur.next
         cur.next = nn
 
+def deleteAtTop():
+    global head
+    if head:
+        head = head.next
+
 def travelers():
     cur:Node = head
     while cur is not None:
