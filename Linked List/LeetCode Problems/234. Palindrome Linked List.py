@@ -1,3 +1,4 @@
+from typing import Optional
 from collections import deque
 # Definition for singly-linked list.
 class ListNode:
