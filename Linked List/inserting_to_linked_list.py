@@ -41,6 +41,16 @@ def deleteAtTop():
     if head:
         head = head.next
 
+def deleteAtEnd():
+    global head
+    if head and not head.next:
+        head = None
+    elif head and head.next:
+        cur = head
+        while cur and cur.next and cur.next.next:
+            cur = cur.next
+        cur.next = None
+
 def travelers():
     cur:Node = head
     while cur is not None:
