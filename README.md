@@ -19,9 +19,7 @@ Mini-project/
 ├── Passed final test with all questions from whole course.png
 └── Passed the course.png
 ```
-
 ---
-
 
 ## Модулі
 
@@ -40,7 +38,7 @@ Mini-project/
 - Різниця між статичними та динамічними масивами.
 - Вставка / видалення: `O(1)` vs `O(n)`.
 
-Розв'язані задачі:
+**Розв'язані задачі:**
 [Max Consecutive Ones](./Arrays/485.%20Max%20Consecutive%20Ones.py) ·
 [Best Time to Buy and Sell Stock](./Arrays/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) ·
 [Product of Array Except Self](./Arrays/238.%20Product%20of%20Array%20Except%20Self.py) ·
@@ -48,6 +46,7 @@ Mini-project/
 [Maximum Subarray](./Arrays/53.%20Maximum%20Subarray.py) ·
 [Maximum Product Subarray](./Arrays/152.%20Maximum%20Product%20Subarray.py) ·
 [Valid Sudoku](./Arrays/36.%20Valid%20Sudoku.py)
+
 ---
 
 ### [Sorting](./Sorting/)
@@ -59,11 +58,11 @@ Mini-project/
 | Merge Sort, Quick Sort | `O(n log n)` |
 | Counting Sort | `O(n)` |
 
-
 **Розв'язані задачі:**
 [Sort Colors](./Sorting/LeetCode%20problems/75.%20Sort%20Colors.py) ·
 [Majority Element](./Sorting/LeetCode%20problems/169.%20Majority%20Element.py) ·
-[Move Zeroes](./Sorting/LeetCode%20problems/283.%20Move%20Zeroes.py) ·
+[Move Zeroes](./Sorting/LeetCode%20problems/283.%20Move%20Zeroes.py)
+
 ---
 
 ### [Linked List](./Linked%20List/)
@@ -81,6 +80,7 @@ Mini-project/
 [Reverse Linked List](./Linked%20List/LeetCode%20Problems/206.%20Reverse%20Linked%20List.py) ·
 [Palindrome Linked List](./Linked%20List/LeetCode%20Problems/234.%20Palindrome%20Linked%20List.py) ·
 [Middle of the Linked List](./Linked%20List/LeetCode%20Problems/876.%20Middle%20of%20the%20Linked%20List.py)
+
 ---
 
 ### [Hash Table](./Hash%20Table/)
@@ -94,7 +94,9 @@ Mini-project/
 [3Sum](./Hash%20Table/LeetCode%20problems/15.%203Sum.py) ·
 [Group Anagrams](./Hash%20Table/LeetCode%20problems/49.%20Group%20Anagrams.py) ·
 [Longest Consecutive Sequence](./Hash%20Table/LeetCode%20problems/128.%20Longest%20Consecutive%20Sequence.py) ·
-[Contains Duplicate](./Hash%20Table/LeetCode%20problems/217.%20Contains%20Duplicate.py)---
+[Contains Duplicate](./Hash%20Table/LeetCode%20problems/217.%20Contains%20Duplicate.py)
+
+---
 
 ## Результати
 
