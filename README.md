@@ -1,5 +1,5 @@
-# Mini-project: Data Structures & Algorithms
-
+# Advanced Data Structures & Algorithms in Practice
+___
 Цей репозиторій – мій особистий прогрес-звіт з курсу DSA на Python. Кожна папка відповідає окремому модулю і містить теоретичні нотатки, реалізації та розв'язки задач з LeetCode.
 Кожний блок містить свій детальний опис. В цьому ж документі лише короткі відмості та посилання на файли.
 ---
@@ -58,6 +58,8 @@ Mini-project/
 | Bubble Sort, Insertion Sort | `O(n²)` |
 | Merge Sort, Quick Sort | `O(n log n)` |
 | Counting Sort | `O(n)` |
+
+
 **Розв'язані задачі:**
 [Sort Colors](./Sorting/LeetCode%20problems/75.%20Sort%20Colors.py) ·
 [Majority Element](./Sorting/LeetCode%20problems/169.%20Majority%20Element.py) ·
